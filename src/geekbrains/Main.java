@@ -17,8 +17,7 @@ import java.util.Scanner;
         private static int fieldSizeY;
         private static int fieldSizeX;
         private static char[][] field;
-//Задание 2
-        
+
         private static void initField() {
             fieldSizeX = 5;
             fieldSizeY = 5;
